@@ -3,7 +3,7 @@
 
 ![삼촌놀아줘](https://github.com/user-attachments/assets/3fcfe2e4-01fb-4dcc-8894-1d93a9fa2297)
 
->21-1 Exp Make 학기 프로젝트
+>21-2 Exp Make 학기 프로젝트
 
 >네트워크가 필요한 2인용 멀티 캐주얼 액션 게임
 
